@@ -1,0 +1,33 @@
+.nav-link{
+    color: white !important;
+}
+.rounded-circle{
+    width: 150px;
+    height: 150px;
+}
+table, tr, td{
+    border: 1px solid black;
+	padding: 10px;
+	width: 500px;
+}
+#education{
+	background-color:#f9e0ae;
+}
+.schoolname{
+	text-align: center;
+}
+.navbar{
+    background-color: #c24914;
+}
+#about{
+    background-color: #f9e0ae
+}
+.jumbotron{
+    background-color: #f9e0ae;
+}
+#awards{
+    background-color: #f9e0ae;
+}
+#section{
+    background-color: #682c0e;
+}
